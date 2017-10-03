@@ -1,6 +1,6 @@
 {
   "name": "fastify-router",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": "git@github.com:rodrigogs/fastify-router.git",
   "license": "BSD-3-Clause",
   "author": {
